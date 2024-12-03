@@ -6,7 +6,7 @@ Created on Mon Dec  2 21:22:07 2024
 """
 
 #%%
-import pandas as pd
+import pandas as pd #criado Alias
 
 #%% 
 #importando os bancos de dados em XLSX
